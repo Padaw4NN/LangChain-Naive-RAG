@@ -43,18 +43,18 @@ For more container informations, use the `logs` from docker:
 
 You can open the QDrant dashboard and view more information, for example, your collections, points and point graph. Similar to this:
 <p align="center">
-    <img src="imgs/point-qdrant.png" alt="Example point" width="300">
+    <img src="imgs/point-qdrant.png" alt="Example point" width="400">
 </p>
 
 #### Results
 This is a test in which the query does not satisfy the context:
 <p align="center">
-    <img src="imgs/test2.png" alt="Non-satisfied test" width="300"/>
+    <img src="imgs/test2.png" alt="Non-satisfied test" width="400"/>
 </p>
 
 This is a test in which the query satisfy the context:
 <p align="center">
-    <img src="imgs/test1.png" alt="Satisfied test" width="300"/>
+    <img src="imgs/test1.png" alt="Satisfied test" width="400"/>
 </p>
 
 #### Reference
