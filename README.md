@@ -43,11 +43,11 @@ For more container informations, use the `logs` from docker:
 
 #### Results
 This is a test in which the query does not satisfy the context:
-<p style="align: center">
+<p align="center">
     <img src="imgs/test2.png" alt="Non-satisfied test" width="300"/>
 </p>
 
 This is a test in which the query satisfy the context:
-<p style="align: center">
+<p align="center">
     <img src="imgs/test1.png" alt="Satisfied test" width="300"/>
 </p>
