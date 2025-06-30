@@ -41,7 +41,7 @@ For more container informations, use the `logs` from docker:
 - RAG: **$ docker logs rag**
 - QDrant: **$ docker logs qdrant**
 
-You can open the QDrant dashboard and view more information, for example, your collections, points and point graph. Similar to this:
+You can open the QDrant dashboard and view more information, for example, your collections, points and point graph from `http://0.0.0.0:6333/dashboard`. Similar to this:
 <p align="center">
     <img src="imgs/point-qdrant.png" alt="Example point" width="400">
 </p>
