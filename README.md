@@ -18,9 +18,9 @@ Embeddings are a fundamental concept in Machine Learning and Natural Language Pr
 
 #### Architecture
 The Naive RAG follows these steps:
-<div style="text-align: center">
+<p align="center">
     <img src="imgs/naive-rag.png" alt="Naive RAG Architecture" width="300"/>
-</div>
+</p>
 
 #### Run
 This project is designed to run in Docker, without data flow or run scripts, so the first time you run it, you'll need to perform a few steps:
